@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "fews-chronicle",
+  "version": "1.0.0",
+  "description": "News available to you without disturbing you at just a click :)",
+  "browser_action":{
+      "default_icon":"logo.png",
+      "default_popup":"popup.html"
+  },
+  "permissions": ["activeTab"]
+}
